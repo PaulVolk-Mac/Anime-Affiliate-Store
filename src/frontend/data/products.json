@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto Action Figure",
+    "description": "Eine detaillierte Naruto-Figur für Fans der Serie.",
+    "price": "29.99€",
+    "image": "/assets/images/naruto.jpg"
+  },
+  {
+    "id": 2,
+    "title": "One Piece T-Shirt",
+    "description": "Ein cooles T-Shirt mit einem Design aus One Piece.",
+    "price": "19.99€",
+    "image": "/assets/images/onepiece.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Attack on Titan Poster",
+    "description": "Ein Poster von Attack on Titan in hoher Qualität.",
+    "price": "9.99€",
+    "image": "/assets/images/aot.jpg"
+  }
+]

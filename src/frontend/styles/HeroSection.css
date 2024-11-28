@@ -1,0 +1,31 @@
+.hero {
+  height: 80vh;
+  background-image: url("../images/hero-background.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+
+.hero-overlay {
+  text-align: center;
+  background: rgba(0, 0, 0, 0.6);
+  padding: 2rem;
+  border-radius: 8px;
+}
+
+.hero button {
+  margin-top: 1rem;
+  background-color: #ffd700;
+  border: none;
+  padding: 0.75rem 1.5rem;
+  font-size: 1rem;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.hero button:hover {
+  background-color: #ffc107;
+}
